@@ -16,19 +16,18 @@ This simulates the basic functionality of real-world spell checking systems used
 
 ## Project Structure
 
+- spellchecker.cpp — Main source code  
+- Makefile — Compilation instructions  
+- words.txt — Dictionary file containing valid words  
 
-spellchecker/
-│
-│── spellchecker.cpp # Main source code
-│── Makefile # Compilation instructions
-│── words.txt # Dictionary file containing valid words
-│
-│── alice.txt # Example input file
-│── frankenstein.txt # Example input file
-│── bicycle.txt # Example input file
-│── tooinkle.txt # Example input file
-│
-└── README.md # Project documentation
+Example input files:
+
+- alice.txt — Example input file  
+- frankenstein.txt — Example input file  
+- bicycle.txt — Example input file  
+- tooinkle.txt — Example input file  
+
+- README.md — Project documentation  
 
 
 ---
