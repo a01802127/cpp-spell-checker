@@ -19,14 +19,14 @@ This simulates the basic functionality of real-world spell checking systems used
 
 spellchecker/
 │
-├── spellchecker.cpp # Main source code
-├── Makefile # Compilation instructions
-├── words.txt # Dictionary file containing valid words
+│── spellchecker.cpp # Main source code
+│── Makefile # Compilation instructions
+│── words.txt # Dictionary file containing valid words
 │
-├── alice.txt # Example input file
-├── frankenstein.txt # Example input file
-├── bicycle.txt # Example input file
-├── tooinkle.txt # Example input file
+│── alice.txt # Example input file
+│── frankenstein.txt # Example input file
+│── bicycle.txt # Example input file
+│── tooinkle.txt # Example input file
 │
 └── README.md # Project documentation
 
